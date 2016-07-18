@@ -1,0 +1,5 @@
+E:\薛少爷\Demo_MVC\Service\bin\Debug\Service.dll
+E:\薛少爷\Demo_MVC\Service\bin\Debug\Service.pdb
+E:\薛少爷\Demo_MVC\Service\obj\Debug\Service.csprojResolveAssemblyReference.cache
+E:\薛少爷\Demo_MVC\Service\obj\Debug\Service.dll
+E:\薛少爷\Demo_MVC\Service\obj\Debug\Service.pdb

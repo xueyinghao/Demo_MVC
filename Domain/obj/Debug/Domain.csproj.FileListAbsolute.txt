@@ -1,0 +1,5 @@
+E:\薛少爷\Demo_MVC\Domain\bin\Debug\Domain.dll
+E:\薛少爷\Demo_MVC\Domain\bin\Debug\Domain.pdb
+E:\薛少爷\Demo_MVC\Domain\obj\Debug\Domain.csprojResolveAssemblyReference.cache
+E:\薛少爷\Demo_MVC\Domain\obj\Debug\Domain.dll
+E:\薛少爷\Demo_MVC\Domain\obj\Debug\Domain.pdb
